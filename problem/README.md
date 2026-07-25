@@ -46,6 +46,12 @@
 | [arrangement_template.cpp](arrangement_template.cpp) | 全排列（DFS 回溯） |
 | [combination_template.cpp](combination_template.cpp) | 组合数（DFS 枚举） |
 
+## 双指针
+
+| 文件 | 说明 |
+|------|------|
+| [longest_non_repeating_subsequence.cpp](longest_non_repeating_subsequence.cpp) | 最长连续不重复子序列（滑动窗口） |
+
 ## 数论
 
 | 文件 | 说明 |
