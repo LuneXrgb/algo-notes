@@ -51,6 +51,7 @@
 | 文件 | 说明 |
 |------|------|
 | [longest_non_repeating_subsequence.cpp](longest_non_repeating_subsequence.cpp) | 最长连续不重复子序列（滑动窗口） |
+| [two_sum_sorted_arrays.cpp](two_sum_sorted_arrays.cpp) | 有序数组元素的目标和（双指针） |
 
 ## 数论
 
