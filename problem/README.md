@@ -54,6 +54,12 @@
 | [two_sum_sorted_arrays.cpp](two_sum_sorted_arrays.cpp) | 有序数组元素的目标和（双指针） |
 | [check_subsequence.cpp](check_subsequence.cpp) | 判断子序列 |
 
+## 位运算
+
+| 文件 | 说明 |
+|------|------|
+| [count_ones_lowbit.cpp](count_ones_lowbit.cpp) | 二进制中1的个数（lowbit） |
+
 ## 数论
 
 | 文件 | 说明 |
