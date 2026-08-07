@@ -66,6 +66,12 @@
 |------|------|
 | [range_sum_discretization.cpp](range_sum_discretization.cpp) | 区间和（坐标离散化 + 前缀和） |
 
+## 贪心
+
+| 文件 | 说明 |
+|------|------|
+| [interval_merge.cpp](interval_merge.cpp) | 区间合并 |
+
 ## 数论
 
 | 文件 | 说明 |
