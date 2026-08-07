@@ -60,6 +60,12 @@
 |------|------|
 | [count_ones_lowbit.cpp](count_ones_lowbit.cpp) | 二进制中1的个数（lowbit） |
 
+## 离散化
+
+| 文件 | 说明 |
+|------|------|
+| [range_sum_discretization.cpp](range_sum_discretization.cpp) | 区间和（坐标离散化 + 前缀和） |
+
 ## 数论
 
 | 文件 | 说明 |
