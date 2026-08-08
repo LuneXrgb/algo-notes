@@ -12,6 +12,7 @@
 | 文件 | 说明 |
 |------|------|
 | [single_linked_list.cpp](single_linked_list.cpp) | 单链表 |
+| [single_linked_list_array.cpp](single_linked_list_array.cpp) | 单链表（数组模拟，AcWing 826） |
 | [double_linked_list.cpp](double_linked_list.cpp) | 双链表 |
 | [cyclic_list.cpp](cyclic_list.cpp) | 循环链表 |
 
