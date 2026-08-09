@@ -33,6 +33,49 @@ void remove(int k){
 }
 
 int main(){
-
+    init();
+    int m;
+    cin>>m;
+    while(m--){
+        char choice;
+        cin>>choice;
+        int k,x;
+        switch(choice){
+            case 'L':{
+                cin>>x;
+                push_right(0,x);
+                break;
+            }
+            case 'R':{
+                cin>>x;
+                push_left(1,x);
+                break;
+            }
+            case 'D':{
+                cin>>k;
+                remove(k+1);
+                break;
+            }
+            case 'I':{
+                char anotherchoice;
+                cin>>anotherchoice;
+                switch(anotherchoice){
+                    case 'L':{
+                        cin>>k>>x;
+                        push_left(k+1,x);
+                        break;
+                    }
+                    case 'R':{
+                        cin>>k>>x;
+                        push_right(k+1,x);
+                        break;
+                    }
+                }
+            }
+        }
+    }
+    for(int i=r[0];i!=1;i=r[i]){
+        cout<<e[i]<<' ';
+    }
     return 0;
 }
