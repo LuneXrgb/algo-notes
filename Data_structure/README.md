@@ -11,10 +11,8 @@
 
 | 文件 | 说明 |
 |------|------|
-| [single_linked_list.cpp](single_linked_list.cpp) | 单链表 |
-| [single_linked_list_array.cpp](single_linked_list_array.cpp) | 单链表（数组模拟，AcWing 826） |
-| [double_linked_list.cpp](double_linked_list.cpp) | 双链表 |
-| [double_linked_list_array.cpp](double_linked_list_array.cpp) | 双链表（数组模拟哨兵版，AcWing 827） |
+| [single_linked_list.cpp](single_linked_list.cpp) | 单链表（数组模拟，含 AcWing 826 题解） |
+| [double_linked_list.cpp](double_linked_list.cpp) | 双链表（数组模拟哨兵版，含 AcWing 827 题解） |
 | [cyclic_list.cpp](cyclic_list.cpp) | 循环链表 |
 
 ## 线性表
