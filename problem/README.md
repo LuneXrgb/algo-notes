@@ -78,6 +78,12 @@
 |------|------|
 | [kmp_string.cpp](kmp_string.cpp) | KMP 字符串匹配（AcWing 831） |
 
+## 数据结构
+
+| 文件 | 说明 |
+|------|------|
+| [stack_simulation.cpp](stack_simulation.cpp) | 模拟栈（AcWing 828） |
+
 ## 数论
 
 | 文件 | 说明 |
