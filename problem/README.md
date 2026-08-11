@@ -72,6 +72,12 @@
 |------|------|
 | [interval_merge.cpp](interval_merge.cpp) | 区间合并 |
 
+## 字符串
+
+| 文件 | 说明 |
+|------|------|
+| [kmp_string.cpp](kmp_string.cpp) | KMP 字符串匹配（AcWing 831） |
+
 ## 数论
 
 | 文件 | 说明 |
