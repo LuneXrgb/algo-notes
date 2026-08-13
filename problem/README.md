@@ -83,6 +83,7 @@
 | 文件 | 说明 |
 |------|------|
 | [stack_simulation.cpp](stack_simulation.cpp) | 模拟栈（AcWing 828） |
+| [queue_simulation.cpp](queue_simulation.cpp) | 模拟队列（AcWing 829） |
 | [expression_evaluation.cpp](expression_evaluation.cpp) | 表达式求值（AcWing 3302） |
 
 ## 数论
