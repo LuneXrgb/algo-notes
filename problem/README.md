@@ -84,6 +84,7 @@
 |------|------|
 | [stack_simulation.cpp](stack_simulation.cpp) | 模拟栈（AcWing 828） |
 | [queue_simulation.cpp](queue_simulation.cpp) | 模拟队列（AcWing 829） |
+| [sliding_window.cpp](sliding_window.cpp) | 滑动窗口（AcWing 154） |
 | [expression_evaluation.cpp](expression_evaluation.cpp) | 表达式求值（AcWing 3302） |
 
 ## 数论
