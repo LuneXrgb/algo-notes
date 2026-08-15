@@ -84,6 +84,7 @@
 |------|------|
 | [stack_simulation.cpp](stack_simulation.cpp) | 模拟栈（AcWing 828） |
 | [queue_simulation.cpp](queue_simulation.cpp) | 模拟队列（AcWing 829） |
+| [monotonic_stack.cpp](monotonic_stack.cpp) | 单调栈（AcWing 830） |
 | [sliding_window.cpp](sliding_window.cpp) | 滑动窗口（AcWing 154） |
 | [expression_evaluation.cpp](expression_evaluation.cpp) | 表达式求值（AcWing 3302） |
 
